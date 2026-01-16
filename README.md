@@ -5,13 +5,10 @@
 <h1 align="center" style="color:#00F7FF;">⚡ KRITIM BISTA ⚡</h1>
 
 <p align="center">
-  <b>🤖 AI & Machine Learning Enthusiast</b><br/>
-  <b>🌱 Learning From Scratch | Growing Every Day</b>
+  <b> AI & Machine Learning Enthusiast</b><br/>
+  <b> Learning From Scratch | Growing Every Day</b>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Neon+Views&color=00F7FF&style=flat" />
-</p>
 
 ---
 
