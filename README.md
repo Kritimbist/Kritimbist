@@ -1,23 +1,41 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=700&lines=Kritim+Bista;AI+%26+Machine+Learning+Enthusiast;Learning+From+Scratch;Building+Intelligence+Step+by+Step" />
-</p>
-
-<h1 align="center" style="color:#00F7FF;">⚡ KRITIM BISTA ⚡</h1>
+<h1 align="center">Hi , I'm Kritim Bista</h1>
 
 <p align="center">
-  <b> AI & Machine Learning Enthusiast</b><br/>
-  <b> Learning From Scratch | Growing Every Day</b>
+  🤖 Machine Learning Enthusiast | 📊 Data Analysis Learner | 🔬 AI Builder
 </p>
-
 
 ---
 
-## 🧬 ABOUT ME
+##  About Me
 
-```python
-class AIJourney:
-    def __init__(self):
-        self.level = "Beginner → Advanced"
-        self.focus = ["AI", "Machine Learning", "Deep Learning"]
-        self.method = "Learn fundamentals → Build → Improve"
-        self.goal = "Create intelligent real-world systems"
+-  Computer Science Student passionate about AI & Data
+-  Currently exploring **Machine Learning, Deep Learning & Data Analysis**
+-  Building real-world ML systems and experimenting with models
+- Focused on learning by building practical projects
+
+---
+
+##  Tech Stack 
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PyTorch-red?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-black?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+</p>
+
+---
+
+## 📈 Learning Focus
+
+- Machine Learning Algorithms  
+- Deep Learning (CNNs, Transfer Learning)  
+- Data Analysis & Visualization  
+- Model Deployment & Optimization  
+
+---
