@@ -1,41 +1,149 @@
-<h1 align="center">Hi , I'm Kritim Bista</h1>
+<div align="center">
 
-<p align="center">
-  🤖 Machine Learning Enthusiast | 📊 Data Analysis Learner | 🔬 AI Builder
-</p>
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Kritim%20Bista&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Machine%20Learning%20%7C%20Data%20Analysis%20%7C%20AI%20Builder&descAlignY=60&descColor=a78bfa&animation=fadeIn"/>
 
----
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Computer+Science+Student+%F0%9F%8E%93;ML+%26+Deep+Learning+Explorer+%F0%9F%A4%96;Data+Analysis+Enthusiast+%F0%9F%93%8A;Problem+Solver+%F0%9F%A7%A0" alt="Typing SVG" />
+</a>
 
-##  About Me
+<br/>
 
--  Computer Science Student passionate about AI & Data
--  Currently exploring **Machine Learning, Deep Learning & Data Analysis**
--  Building real-world ML systems and experimenting with models
-- Focused on learning by building practical projects
+<!-- Profile Views + GitHub Followers -->
+<img src="https://komarev.com/ghpvc/?username=kritimbista&label=Profile%20Views&color=7c3aed&style=flat-square" alt="profile views"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/kritimbista?label=Followers&style=flat-square&color=7c3aed" alt="followers"/>
 
----
-
-##  Tech Stack 
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/PyTorch-red?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-black?style=for-the-badge&logo=plotly&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-</p>
+</div>
 
 ---
 
-## 📈 Learning Focus
+## 🧑‍💻 About Me
 
-- Machine Learning Algorithms  
-- Deep Learning (CNNs, Transfer Learning)  
-- Data Analysis & Visualization  
-- Model Deployment & Optimization  
+```python
+class KritimBista:
+    def __init__(self):
+        self.role        = "Computer Science Student"
+        self.passions    = ["Machine Learning", "Deep Learning", "Data Analysis"]
+        self.currently   = "Building real-world ML systems & experimenting with models"
+        self.also_doing  = "Sharpening problem-solving skills alongside ML journey"
+        self.goal        = "Build intelligent systems that make a real-world impact"
+
+    def say_hi(self):
+        print("Thanks for stopping by! Let's build something awesome together 🚀")
+
+me = KritimBista()
+me.say_hi()
+```
 
 ---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages & Core**
+
+<img src="https://skillicons.dev/icons?i=python&theme=dark" />
+
+**ML / Data Science**
+
+<img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"/>
+
+</div>
+
+---
+
+## 📚 Learning Roadmap
+
+<div align="center">
+
+| Area | Topics |
+|------|--------|
+| 🤖 **Machine Learning** | Supervised & Unsupervised Algorithms, Model Evaluation |
+| 🧠 **Deep Learning** | CNNs, Transfer Learning, Neural Architectures |
+| 📊 **Data Analysis** | EDA, Feature Engineering, Visualization |
+| 🚀 **Deployment** | Model Optimization, Inference Pipelines |
+| 🧩 **DSA** | Arrays, Trees, DP, Two Pointers, Graphs |
+
+</div>
+
+---
+
+## 🏆 Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/u/kritimbista10/">
+  <img src="https://img.shields.io/badge/LeetCode-kritimbista10-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+&nbsp;
+<a href="https://www.hackerrank.com/profile/kritimbista7">
+  <img src="https://img.shields.io/badge/HackerRank-kritimbista7-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
+</a>
+
+</div>
+
+<br/>
+
+> 📌 *Practicing Data Structures & Algorithms with a focus on problem-solving consistency*
+
+### 🧠 Problem Solving Focus
+
+- **Arrays & Strings** — Two Pointer & Sliding Window techniques
+- **Hash Tables** — Optimization and lookup-heavy problems
+- **Trees & Graphs** — Depth-First Search (DFS) & BFS traversals
+- **Dynamic Programming** — Memoization, tabulation & subproblem breakdown
+
+---
+
+## 📊 LeetCode Stats
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/kritimbista10?theme=dark&font=baloo&border=7c3aed&radius=10"/>
+</div>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kritimbista&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa"/>
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritimbista&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa"/>
+
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kritimbista&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" />
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="mailto:kritimbista7@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-kritimbista7-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/kritimbista/">
+  <img src="https://img.shields.io/badge/LinkedIn-kritimbista-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+
+</div>
