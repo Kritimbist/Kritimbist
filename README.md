@@ -75,33 +75,6 @@ me.say_hi()
 
 ---
 
-## 🏆 Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/u/kritimbista10/">
-  <img src="https://img.shields.io/badge/LeetCode-kritimbista10-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-&nbsp;
-<a href="https://www.hackerrank.com/profile/kritimbista7">
-  <img src="https://img.shields.io/badge/HackerRank-kritimbista7-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
-</a>
-
-</div>
-
-<br/>
-
-> 📌 *Practicing Data Structures & Algorithms with a focus on problem-solving consistency*
-
-### 🧠 Problem Solving Focus
-
-- **Arrays & Strings** — Two Pointer & Sliding Window techniques
-- **Hash Tables** — Optimization and lookup-heavy problems
-- **Trees & Graphs** — Depth-First Search (DFS) & BFS traversals
-- **Dynamic Programming** — Memoization, tabulation & subproblem breakdown
-
----
-
 ## 📊 LeetCode Stats
 
 <div align="center">
@@ -110,40 +83,5 @@ me.say_hi()
 
 ---
 
-## 📈 GitHub Stats
 
-<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kritimbista&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa"/>
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritimbista&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa"/>
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kritimbista&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" />
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="mailto:kritimbista7@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-kritimbista7-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/kritimbista/">
-  <img src="https://img.shields.io/badge/LinkedIn-kritimbista-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
-
-</div>
